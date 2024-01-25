@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/SnehanshuB/themilkywayshop#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
