@@ -4,7 +4,7 @@ import React from 'react'
 
 const Message = ({variant, children}) => {
   return (
-    <Alert variant={variant}>(children)</Alert>
+    <Alert variant={variant}>{children}</Alert>
   )
 };
 
